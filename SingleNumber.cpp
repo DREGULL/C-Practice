@@ -1,3 +1,4 @@
+// singleNumber(std::vector<int> arrNums) : returns the only not reapeted number
 #include<iostream>
 #include<vector>
 #include<unordered_map>
