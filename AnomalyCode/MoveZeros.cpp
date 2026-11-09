@@ -1,4 +1,4 @@
-//This code was written using native pointers; however, when I showed it to Gemini, it told me that this is not the preferred approach, even though it works perfectly correctly.
+//This code was written using raw pointers; however, when I showed it to Gemini, it told me that this is not the preferred approach, even though it works perfectly correctly.
 #include<iostream>
 #include<vector>
 
