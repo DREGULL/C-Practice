@@ -1,4 +1,4 @@
-
+//validAnagram(std::string s,std::string t) : Returns true if the string t has the same number of letters and letters with string s ,like : s = "anagram" , t = "naagram".
 #include <iostream>
 #include<string>
 #include<vector>
