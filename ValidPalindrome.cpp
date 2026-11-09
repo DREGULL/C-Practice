@@ -1,3 +1,5 @@
+// validPalindrome(std::string s): This function cleans the string by removing any unwanted characters and then returns "true" if the string is a palindrome. For example:
+// The phrase "A man, a plan, a canal: Panama" is cleaned of special characters and converted to lowercase, resulting in "amanaplanacanalpanama". If the string reads the same forwards and backwards, the function returns "true".
 #include<iostream>
 #include<string>
 #include<algorithm>
